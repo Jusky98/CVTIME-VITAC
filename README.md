@@ -1,4 +1,4 @@
-# CVTIME-VITAC (Project Name TBD)
+# CVTIME-VITAC (Temporary)
 ## Welcome to CVTIME-VITAC 
 
 CVTIME-VITAC is a web application designed to simplify the process of creating professional resumes (CVs). With CVTIME-VITAC, you can effortlessly craft personalized CVs by responding to straightforward questions and filling out intuitive forms. Our platform offers a palet of customizable templates, ensuring your CV stands out and reflects your unique personality and qualifications.
