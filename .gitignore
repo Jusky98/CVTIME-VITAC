@@ -79,4 +79,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# assets/ imgs
+./assets/img/*
+
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,windows,macos
