@@ -80,7 +80,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # assets/ imgs
-./assets/img
+./src/img/*
 
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,windows,macos
