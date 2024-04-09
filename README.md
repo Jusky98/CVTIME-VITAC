@@ -21,7 +21,8 @@ CVTIME-VITAC is a web application designed to simplify the process of creating p
 ## HOW TO RUN??
 - Access the CVTIME-VITAC project folder in terminal
 - type: npm i (to install libraries)
-- and run with: npm run dev
+- run compiler with: npm run dev
+- open project with: o + ENTER
 
 **This process was implemented to compile and run the project faster for developing.**
 
