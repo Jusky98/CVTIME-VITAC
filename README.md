@@ -3,6 +3,7 @@
 
 CVTIME-VITAC is a web application designed to simplify the process of creating professional resumes (CVs). With CVTIME-VITAC, you can effortlessly craft personalized CVs by responding to straightforward questions and filling out intuitive forms. Our platform offers a palet of customizable templates, ensuring your CV stands out and reflects your unique personality and qualifications.
 
+
 ## Features:
 **Simple and Intuitive Interface:** Say goodbye to complex CV formatting. Our user-friendly interface guides you through the CV creation process step by step.
 
@@ -17,10 +18,18 @@ CVTIME-VITAC is a web application designed to simplify the process of creating p
 **Export Options:** Download your completed CV in various formats such as PDF, Word, or plain text, making it convenient to share with potential employers or print.
 
 
+## HOW TO RUN??
+- Access the CVTIME-VITAC project folder in terminal
+- type: npm i (to install libraries)
+- and run with: npm run dev
+
+**This process was implemented to compile and run the project faster for developing.**
+
+
 ## Technologies Used:
 Frontend: React
-
 Backend: MongoDB, Django
+
 
 ## Feedback and Support:
 Have any questions, suggestions, or encountered a bug? Don't hesitate to open an issue on GitHub. We're here to help and constantly improve the CVTIME-VITAC experience for our users.
